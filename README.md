@@ -5,8 +5,8 @@
   <img src="https://img.shields.io/badge/license-AGPLv3-yellow" />
 </p>
 
-Aplikasi layanan publik berbasis **NestJS**, **PostgreSQL**, **Redis**, **TailwindCSS**, dan **Handlebars**.  
-Dirancang untuk dipakai oleh developer, institusi, dan auditor, tetapi **tidak boleh dijual ulang sebagai closed-source**.
+Aplikasi layanan klinik berbasis **NestJS**, **PostgreSQL**, **Redis**, **TailwindCSS**, dan **Handlebars**.  
+Dirancang untuk dipakai oleh klinik tetapi **tidak boleh dijual ulang sebagai closed-source**.
 
 ## Fitur Utama
 - Manajemen antrean & layanan publik
